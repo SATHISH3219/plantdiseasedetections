@@ -1,0 +1,2 @@
+0 Healthy_leaf
+1 Panama Disease (Fusarium wilt)

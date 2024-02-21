@@ -1,0 +1,3 @@
+0 Tomoto_disease_predection
+1 Brown spot
+2 Leaf smut
